@@ -1,1 +1,2 @@
-# ModuleA
+# Module A
+## Antora module A
