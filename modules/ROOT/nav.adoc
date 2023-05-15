@@ -1,1 +1,2 @@
 * xref:example.adoc[]
+* xref:added-example.adoc[]
