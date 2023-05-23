@@ -2,5 +2,4 @@
 
 == This should be an Added Example
 
-image:images/carbonara.jpg[Carbonara]
 
