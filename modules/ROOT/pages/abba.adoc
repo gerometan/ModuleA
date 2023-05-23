@@ -2,5 +2,5 @@
 
 == This is the 4.0 Version for tagging
 
-
+include::ModuleB:ROOT:partial$partial.adoc[]
 
