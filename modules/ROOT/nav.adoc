@@ -2,4 +2,4 @@
 * xref:added-example.adoc[]
 * xref:list-example.adoc[]
 * xref:abba.adoc[]
-* xref:0.2.0@ModuleB::index.adoc[]
+* xref:0.1.0@ModuleB::index.adoc[]
