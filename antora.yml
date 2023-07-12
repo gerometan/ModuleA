@@ -1,6 +1,6 @@
 name: ModuleA
 title: Module A Example
-version: 0.5.0
+version: 0.2.0
 start_page: example.adoc
 asciidoc:
   attributes:

@@ -2,4 +2,3 @@
 
 == This is the 4.0 Version for tagging
 
-include::0.1.0@ModuleB:ROOT:partial$partial.adoc[test]
