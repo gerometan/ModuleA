@@ -4,7 +4,7 @@
 
 .Ordered list with title
 ----
-.Optional title of list
+.Optional title of lis
 . Step 1
 . Step 2
 . Step 3
