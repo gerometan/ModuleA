@@ -4,4 +4,4 @@
 
 === Add image here
 
-image::resources/carbonara.jpg[Picking with SSL, image,width=672,height=230]
+image::images/carbonara.jpg[Picking with SSL, image,width=672,height=230]
